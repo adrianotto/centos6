@@ -1,0 +1,46 @@
+*** old_packages.txt	2017-03-04 00:59:19.000000000 +0000
+--- new_packages.txt	2017-03-04 00:59:36.000000000 +0000
+***************
+*** 54,62 ****
+  passwd-0.77-7.el6.x86_64
+  gpg-pubkey-c105b9de-4e0fd3a3
+  nss-util-3.21.3-1.el6_8.x86_64
+! nss-3.21.3-2.el6_8.x86_64
+  bind-libs-9.8.2-0.47.rc1.el6_8.4.x86_64
+! libuuid-2.17.2-12.24.el6_8.1.x86_64
+  db4-utils-4.7.25-20.el6_8.1.x86_64
+  nss-tools-3.21.3-2.el6_8.x86_64
+  libgcrypt-1.4.5-12.el6_8.x86_64
+--- 54,62 ----
+  passwd-0.77-7.el6.x86_64
+  gpg-pubkey-c105b9de-4e0fd3a3
+  nss-util-3.21.3-1.el6_8.x86_64
+! nss-sysinit-3.21.3-2.el6_8.x86_64
+  bind-libs-9.8.2-0.47.rc1.el6_8.4.x86_64
+! libuuid-2.17.2-12.24.el6_8.3.x86_64
+  db4-utils-4.7.25-20.el6_8.1.x86_64
+  nss-tools-3.21.3-2.el6_8.x86_64
+  libgcrypt-1.4.5-12.el6_8.x86_64
+***************
+*** 123,132 ****
+  yum-plugin-ovl-1.1.30-37.el6.noarch
+  rootfiles-8.1-6.1.el6.noarch
+  bash-4.1.2-41.el6_8.x86_64
+! nss-sysinit-3.21.3-2.el6_8.x86_64
+  openssl-1.0.1e-48.el6_8.4.x86_64
+  db4-4.7.25-20.el6_8.1.x86_64
+! libblkid-2.17.2-12.24.el6_8.1.x86_64
+  bind-utils-9.8.2-0.47.rc1.el6_8.4.x86_64
+  vim-minimal-7.4.629-5.el6_8.1.x86_64
+  tzdata-2016j-1.el6.noarch
+--- 123,132 ----
+  yum-plugin-ovl-1.1.30-37.el6.noarch
+  rootfiles-8.1-6.1.el6.noarch
+  bash-4.1.2-41.el6_8.x86_64
+! nss-3.21.3-2.el6_8.x86_64
+  openssl-1.0.1e-48.el6_8.4.x86_64
+  db4-4.7.25-20.el6_8.1.x86_64
+! libblkid-2.17.2-12.24.el6_8.3.x86_64
+  bind-utils-9.8.2-0.47.rc1.el6_8.4.x86_64
+  vim-minimal-7.4.629-5.el6_8.1.x86_64
+  tzdata-2016j-1.el6.noarch
