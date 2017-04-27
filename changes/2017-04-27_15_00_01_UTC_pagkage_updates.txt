@@ -1,0 +1,7 @@
+
+bind-libs.x86_64                 32:9.8.2-0.62.rc1.el6_9.1               updates
+bind-utils.x86_64                32:9.8.2-0.62.rc1.el6_9.1               updates
+nss.x86_64                       3.28.4-1.el6_9                          updates
+nss-sysinit.x86_64               3.28.4-1.el6_9                          updates
+nss-tools.x86_64                 3.28.4-1.el6_9                          updates
+nss-util.x86_64                  3.28.4-1.el6_9                          updates
