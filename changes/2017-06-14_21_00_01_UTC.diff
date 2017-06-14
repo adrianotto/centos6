@@ -1,0 +1,18 @@
+27d26
+< upstart-0.6.5-16.el6.x86_64
+33d31
+< libss-1.41.12-23.el6.x86_64
+42a41,42
+> nss-3.28.4-3.el6_9.x86_64
+> nss-tools-3.28.4-3.el6_9.x86_64
+65d64
+< nss-sysinit-3.28.4-3.el6_9.x86_64
+108c107
+< ca-certificates-2016.2.10-65.4.el6.noarch
+---
+> nss-sysinit-3.28.4-3.el6_9.x86_64
+131,132c130
+< nss-3.28.4-3.el6_9.x86_64
+< nss-tools-3.28.4-3.el6_9.x86_64
+---
+> ca-certificates-2017.2.14-65.0.1.el6_9.noarch
