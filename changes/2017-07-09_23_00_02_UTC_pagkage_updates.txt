@@ -1,0 +1,5 @@
+
+bind-libs.x86_64                 32:9.8.2-0.62.rc1.el6_9.4               updates
+bind-utils.x86_64                32:9.8.2-0.62.rc1.el6_9.4               updates
+glibc.x86_64                     2.12-1.209.el6_9.2                      updates
+glibc-common.x86_64              2.12-1.209.el6_9.2                      updates
