@@ -1,0 +1,18 @@
+4,5c4,5
+< glibc-common-2.12-1.209.el6_9.1.x86_64
+< glibc-2.12-1.209.el6_9.1.x86_64
+---
+> glibc-common-2.12-1.209.el6_9.2.x86_64
+> glibc-2.12-1.209.el6_9.2.x86_64
+49d48
+< bind-libs-9.8.2-0.62.rc1.el6_9.2.x86_64
+62d60
+< bind-utils-9.8.2-0.62.rc1.el6_9.2.x86_64
+64a63
+> bind-utils-9.8.2-0.62.rc1.el6_9.4.x86_64
+106a106
+> ca-certificates-2017.2.14-65.0.1.el6_9.noarch
+130c130
+< ca-certificates-2017.2.14-65.0.1.el6_9.noarch
+---
+> bind-libs-9.8.2-0.62.rc1.el6_9.4.x86_64
