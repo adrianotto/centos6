@@ -1,0 +1,5 @@
+
+libacl.x86_64                        2.2.49-7.el6_9.1                    updates
+nss.x86_64                           3.28.4-4.el6_9                      updates
+nss-sysinit.x86_64                   3.28.4-4.el6_9                      updates
+nss-tools.x86_64                     3.28.4-4.el6_9                      updates
