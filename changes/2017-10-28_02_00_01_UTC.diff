@@ -1,0 +1,27 @@
+3d2
+< tzdata-2017b-1.el6.noarch
+9d7
+< libacl-2.2.49-7.el6.x86_64
+28a27
+> procps-3.2.8-45.el6_9.1.x86_64
+40,41d38
+< nss-3.28.4-3.el6_9.x86_64
+< nss-tools-3.28.4-3.el6_9.x86_64
+47a45
+> bind-libs-9.8.2-0.62.rc1.el6_9.4.x86_64
+59a58
+> bind-utils-9.8.2-0.62.rc1.el6_9.4.x86_64
+62c61,62
+< bind-utils-9.8.2-0.62.rc1.el6_9.4.x86_64
+---
+> nss-3.28.4-4.el6_9.x86_64
+> tzdata-2017c-1.el6.noarch
+106d105
+< nss-sysinit-3.28.4-3.el6_9.x86_64
+129,130c128,130
+< bind-libs-9.8.2-0.62.rc1.el6_9.4.x86_64
+< procps-3.2.8-45.el6_9.1.x86_64
+---
+> nss-sysinit-3.28.4-4.el6_9.x86_64
+> nss-tools-3.28.4-4.el6_9.x86_64
+> libacl-2.2.49-7.el6_9.1.x86_64
