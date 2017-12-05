@@ -1,0 +1,2 @@
+Could not retrieve mirrorlist http://mirrorlist.centos.org/?release=6&arch=x86_64&repo=os&infra=container error was
+12: Timeout on http://mirrorlist.centos.org/?release=6&arch=x86_64&repo=os&infra=container: (28, 'Operation too slow. Less than 1 bytes/sec transfered the last 30 seconds')
