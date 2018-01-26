@@ -1,0 +1,10 @@
+
+bind-libs.x86_64                 32:9.8.2-0.62.rc1.el6_9.5               updates
+bind-utils.x86_64                32:9.8.2-0.62.rc1.el6_9.5               updates
+libacl.x86_64                    2.2.49-7.el6_9.1                        updates
+libblkid.x86_64                  2.17.2-12.28.el6_9.1                    updates
+libuuid.x86_64                   2.17.2-12.28.el6_9.1                    updates
+nss.x86_64                       3.28.4-4.el6_9                          updates
+nss-sysinit.x86_64               3.28.4-4.el6_9                          updates
+nss-tools.x86_64                 3.28.4-4.el6_9                          updates
+tzdata.noarch                    2017c-1.el6                             updates
