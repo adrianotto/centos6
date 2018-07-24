@@ -1,0 +1,88 @@
+3,5d2
+< tzdata-2017b-1.el6.noarch
+< glibc-common-2.12-1.209.el6_9.2.x86_64
+< glibc-2.12-1.209.el6_9.2.x86_64
+9,11c6
+< libacl-2.2.49-7.el6.x86_64
+< nspr-4.13.1-1.el6.x86_64
+< libcom_err-1.41.12-23.el6.x86_64
+---
+> libacl-2.2.49-7.el6_9.1.x86_64
+17d11
+< dbus-libs-1.2.24-8.el6_6.x86_64
+19c13
+< libuuid-2.17.2-12.28.el6.x86_64
+---
+> libuuid-2.17.2-12.28.el6_9.2.x86_64
+32d25
+< binutils-2.20.51.0.2-5.47.el6_9.1.x86_64
+36d28
+< coreutils-libs-8.4-46.el6.x86_64
+38d29
+< coreutils-8.4-46.el6.x86_64
+40,41d30
+< nss-3.28.4-3.el6_9.x86_64
+< nss-tools-3.28.4-3.el6_9.x86_64
+45,47d33
+< rpm-libs-4.8.0-55.el6.x86_64
+< rpm-4.8.0-55.el6.x86_64
+< gnupg2-2.0.14-8.el6.x86_64
+56d41
+< glib2-2.28.8-9.el6.x86_64
+62,63c47,60
+< bind-utils-9.8.2-0.62.rc1.el6_9.4.x86_64
+< libgcc-4.4.7-18.el6.x86_64
+---
+> tzdata-2018e-3.el6.noarch
+> glibc-common-2.12-1.212.el6.x86_64
+> nss-util-3.36.0-1.el6.x86_64
+> libstdc++-4.4.7-23.el6.x86_64
+> coreutils-libs-8.4-47.el6.x86_64
+> nss-3.36.0-8.el6.x86_64
+> rpm-libs-4.8.0-59.el6.x86_64
+> dbus-libs-1.2.24-9.el6.x86_64
+> rpm-python-4.8.0-59.el6.x86_64
+> ca-certificates-2018.2.22-65.1.el6.noarch
+> procps-3.2.8-45.el6_9.3.x86_64
+> gnupg2-2.0.14-9.el6_10.x86_64
+> libcom_err-1.41.12-24.el6.x86_64
+> centos-release-6-10.el6.centos.12.3.x86_64
+72d68
+< nss-util-3.28.4-1.el6_9.x86_64
+78d73
+< libstdc++-4.4.7-18.el6.x86_64
+81c76
+< libblkid-2.17.2-12.28.el6.x86_64
+---
+> libblkid-2.17.2-12.28.el6_9.2.x86_64
+89,90d83
+< libnih-1.0.1-7.el6.x86_64
+< gmp-4.3.1-12.el6.x86_64
+105,106d97
+< ca-certificates-2017.2.14-65.0.1.el6_9.noarch
+< nss-sysinit-3.28.4-3.el6_9.x86_64
+119d109
+< rpm-python-4.8.0-55.el6.x86_64
+125,127d114
+< yum-plugin-fastestmirror-1.1.30-40.el6.noarch
+< centos-release-6-9.el6.12.3.x86_64
+< yum-plugin-ovl-1.1.30-40.el6.noarch
+129,130c116,130
+< bind-libs-9.8.2-0.62.rc1.el6_9.4.x86_64
+< procps-3.2.8-45.el6_9.1.x86_64
+---
+> libgcc-4.4.7-23.el6.x86_64
+> glibc-2.12-1.212.el6.x86_64
+> nspr-4.19.0-1.el6.x86_64
+> bind-libs-9.8.2-0.68.rc1.el6.x86_64
+> gmp-4.3.1-13.el6.x86_64
+> coreutils-8.4-47.el6.x86_64
+> nss-sysinit-3.36.0-8.el6.x86_64
+> rpm-4.8.0-59.el6.x86_64
+> libnih-1.0.1-8.el6.x86_64
+> nss-tools-3.36.0-8.el6.x86_64
+> bind-utils-9.8.2-0.68.rc1.el6.x86_64
+> glib2-2.28.8-10.el6.x86_64
+> binutils-2.20.51.0.2-5.48.el6.x86_64
+> yum-plugin-fastestmirror-1.1.30-41.el6.noarch
+> yum-plugin-ovl-1.1.30-41.el6.noarch
