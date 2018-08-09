@@ -1,0 +1,79 @@
+2a3,5
+> tzdata-2018e-3.el6.noarch
+> glibc-common-2.12-1.212.el6.x86_64
+> glibc-2.12-1.212.el6.x86_64
+6a10,11
+> nspr-4.19.0-1.el6.x86_64
+> libcom_err-1.41.12-24.el6.x86_64
+11a17
+> dbus-libs-1.2.24-9.el6.x86_64
+22a29
+> procps-3.2.8-45.el6_9.3.x86_64
+25a33
+> binutils-2.20.51.0.2-5.48.el6.x86_64
+28a37
+> coreutils-libs-8.4-47.el6.x86_64
+29a39
+> coreutils-8.4-47.el6.x86_64
+30a41,42
+> nss-3.36.0-8.el6.x86_64
+> nss-tools-3.36.0-8.el6.x86_64
+33a46,49
+> rpm-libs-4.8.0-59.el6.x86_64
+> rpm-4.8.0-59.el6.x86_64
+> gnupg2-2.0.14-9.el6_10.x86_64
+> bind-libs-9.8.2-0.68.rc1.el6.x86_64
+41a58
+> glib2-2.28.8-10.el6.x86_64
+44a62
+> bind-utils-9.8.2-0.68.rc1.el6.x86_64
+47,60c65,66
+< tzdata-2018e-3.el6.noarch
+< glibc-common-2.12-1.212.el6.x86_64
+< nss-util-3.36.0-1.el6.x86_64
+< libstdc++-4.4.7-23.el6.x86_64
+< coreutils-libs-8.4-47.el6.x86_64
+< nss-3.36.0-8.el6.x86_64
+< rpm-libs-4.8.0-59.el6.x86_64
+< dbus-libs-1.2.24-9.el6.x86_64
+< rpm-python-4.8.0-59.el6.x86_64
+< ca-certificates-2018.2.22-65.1.el6.noarch
+< procps-3.2.8-45.el6_9.3.x86_64
+< gnupg2-2.0.14-9.el6_10.x86_64
+< libcom_err-1.41.12-24.el6.x86_64
+< centos-release-6-10.el6.centos.12.3.x86_64
+---
+> yum-plugin-fastestmirror-1.1.30-42.el6_10.noarch
+> libgcc-4.4.7-23.el6.x86_64
+68a75
+> nss-util-3.36.0-1.el6.x86_64
+73a81
+> libstdc++-4.4.7-23.el6.x86_64
+83a92,93
+> libnih-1.0.1-8.el6.x86_64
+> gmp-4.3.1-13.el6.x86_64
+97a108,109
+> ca-certificates-2018.2.22-65.1.el6.noarch
+> nss-sysinit-3.36.0-8.el6.x86_64
+109a122
+> rpm-python-4.8.0-59.el6.x86_64
+114a128
+> centos-release-6-10.el6.centos.12.3.x86_64
+116,130c130
+< libgcc-4.4.7-23.el6.x86_64
+< glibc-2.12-1.212.el6.x86_64
+< nspr-4.19.0-1.el6.x86_64
+< bind-libs-9.8.2-0.68.rc1.el6.x86_64
+< gmp-4.3.1-13.el6.x86_64
+< coreutils-8.4-47.el6.x86_64
+< nss-sysinit-3.36.0-8.el6.x86_64
+< rpm-4.8.0-59.el6.x86_64
+< libnih-1.0.1-8.el6.x86_64
+< nss-tools-3.36.0-8.el6.x86_64
+< bind-utils-9.8.2-0.68.rc1.el6.x86_64
+< glib2-2.28.8-10.el6.x86_64
+< binutils-2.20.51.0.2-5.48.el6.x86_64
+< yum-plugin-fastestmirror-1.1.30-41.el6.noarch
+< yum-plugin-ovl-1.1.30-41.el6.noarch
+---
+> yum-plugin-ovl-1.1.30-42.el6_10.noarch

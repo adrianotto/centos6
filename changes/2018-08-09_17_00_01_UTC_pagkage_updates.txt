@@ -1,0 +1,3 @@
+
+yum-plugin-fastestmirror.noarch             1.1.30-42.el6_10             updates
+yum-plugin-ovl.noarch                       1.1.30-42.el6_10             updates
