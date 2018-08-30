@@ -1,0 +1,14 @@
+49d48
+< bind-libs-9.8.2-0.68.rc1.el6.x86_64
+62d60
+< bind-utils-9.8.2-0.68.rc1.el6.x86_64
+65c63,64
+< yum-plugin-fastestmirror-1.1.30-42.el6_10.noarch
+---
+> bind-utils-9.8.2-0.68.rc1.el6_10.1.x86_64
+> yum-plugin-ovl-1.1.30-42.el6_10.noarch
+130c129,130
+< yum-plugin-ovl-1.1.30-42.el6_10.noarch
+---
+> bind-libs-9.8.2-0.68.rc1.el6_10.1.x86_64
+> yum-plugin-fastestmirror-1.1.30-42.el6_10.noarch

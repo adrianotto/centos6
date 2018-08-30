@@ -1,0 +1,3 @@
+
+bind-libs.x86_64                32:9.8.2-0.68.rc1.el6_10.1               updates
+bind-utils.x86_64               32:9.8.2-0.68.rc1.el6_10.1               updates
