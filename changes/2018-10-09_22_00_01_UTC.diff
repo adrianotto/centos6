@@ -1,0 +1,24 @@
+41,42d40
+< nss-3.36.0-8.el6.x86_64
+< nss-tools-3.36.0-8.el6.x86_64
+48a47
+> bind-libs-9.8.2-0.68.rc1.el6_10.1.x86_64
+60a60
+> bind-utils-9.8.2-0.68.rc1.el6_10.1.x86_64
+63,64c63
+< bind-utils-9.8.2-0.68.rc1.el6_10.1.x86_64
+< yum-plugin-ovl-1.1.30-42.el6_10.noarch
+---
+> nss-sysinit-3.36.0-9.el6_10.x86_64
+108d106
+< nss-sysinit-3.36.0-8.el6.x86_64
+126a125
+> yum-plugin-fastestmirror-1.1.30-42.el6_10.noarch
+127a127
+> yum-plugin-ovl-1.1.30-42.el6_10.noarch
+129,130c129,130
+< bind-libs-9.8.2-0.68.rc1.el6_10.1.x86_64
+< yum-plugin-fastestmirror-1.1.30-42.el6_10.noarch
+---
+> nss-3.36.0-9.el6_10.x86_64
+> nss-tools-3.36.0-9.el6_10.x86_64
