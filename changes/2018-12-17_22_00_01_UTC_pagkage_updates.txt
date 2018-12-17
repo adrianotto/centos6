@@ -1,0 +1,2 @@
+Could not retrieve mirrorlist http://mirrorlist.centos.org/?release=6&arch=x86_64&repo=os&infra=container error was
+14: PYCURL ERROR 6 - "Couldn't resolve host 'mirrorlist.centos.org'"
